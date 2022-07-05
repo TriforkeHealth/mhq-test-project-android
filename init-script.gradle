@@ -21,5 +21,7 @@ allprojects {
     rejectVersionIf {
         isNonStable(it.candidate.version) && !isNonStable(it.currentVersion)
     }
+    outputFormatter = "json"
+    outputDir = "../resources/dependencies"
   }
 }

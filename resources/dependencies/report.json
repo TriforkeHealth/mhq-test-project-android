@@ -1,0 +1,278 @@
+{
+    "current": {
+        "dependencies": [
+            {
+                "group": "androidx.test",
+                "userReason": null,
+                "version": "1.4.0",
+                "projectUrl": "https://developer.android.com/testing",
+                "name": "runner"
+            },
+            {
+                "group": "androidx.test.espresso",
+                "userReason": null,
+                "version": "3.4.0",
+                "projectUrl": "https://developer.android.com/testing",
+                "name": "espresso-core"
+            },
+            {
+                "group": "androidx.vectordrawable",
+                "userReason": null,
+                "version": "1.1.0",
+                "projectUrl": "https://developer.android.com/jetpack/androidx",
+                "name": "vectordrawable"
+            },
+            {
+                "group": "junit",
+                "userReason": null,
+                "version": "4.13.2",
+                "projectUrl": "http://junit.org",
+                "name": "junit"
+            }
+        ],
+        "count": 4
+    },
+    "gradle": {
+        "current": {
+            "version": "7.4.2",
+            "reason": "",
+            "isUpdateAvailable": false,
+            "isFailure": false
+        },
+        "nightly": {
+            "version": "",
+            "reason": "update check disabled",
+            "isUpdateAvailable": false,
+            "isFailure": false
+        },
+        "enabled": true,
+        "releaseCandidate": {
+            "version": "7.5-rc-3",
+            "reason": "",
+            "isUpdateAvailable": true,
+            "isFailure": false
+        },
+        "running": {
+            "version": "7.4.2",
+            "reason": "",
+            "isUpdateAvailable": false,
+            "isFailure": false
+        }
+    },
+    "exceeded": {
+        "dependencies": [
+            
+        ],
+        "count": 0
+    },
+    "outdated": {
+        "dependencies": [
+            {
+                "group": "androidx.activity",
+                "available": {
+                    "release": null,
+                    "milestone": "1.5.0",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "1.3.1",
+                "projectUrl": "https://developer.android.com/jetpack/androidx/releases/activity#1.5.0",
+                "name": "activity-ktx"
+            },
+            {
+                "group": "androidx.appcompat",
+                "available": {
+                    "release": null,
+                    "milestone": "1.4.2",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "1.3.1",
+                "projectUrl": "https://developer.android.com/jetpack/androidx/releases/appcompat#1.4.2",
+                "name": "appcompat"
+            },
+            {
+                "group": "androidx.constraintlayout",
+                "available": {
+                    "release": null,
+                    "milestone": "2.1.4",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "2.1.0",
+                "projectUrl": "http://tools.android.com",
+                "name": "constraintlayout"
+            },
+            {
+                "group": "androidx.databinding",
+                "available": {
+                    "release": null,
+                    "milestone": "7.2.1",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "7.0.1",
+                "projectUrl": null,
+                "name": "databinding-adapters"
+            },
+            {
+                "group": "androidx.databinding",
+                "available": {
+                    "release": null,
+                    "milestone": "7.2.1",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "7.0.1",
+                "projectUrl": "http://tools.android.com/",
+                "name": "databinding-common"
+            },
+            {
+                "group": "androidx.databinding",
+                "available": {
+                    "release": null,
+                    "milestone": "7.2.1",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "7.0.1",
+                "projectUrl": "http://tools.android.com/",
+                "name": "databinding-compiler"
+            },
+            {
+                "group": "androidx.databinding",
+                "available": {
+                    "release": null,
+                    "milestone": "7.2.1",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "7.0.1",
+                "projectUrl": null,
+                "name": "databinding-ktx"
+            },
+            {
+                "group": "androidx.databinding",
+                "available": {
+                    "release": null,
+                    "milestone": "7.2.1",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "7.0.1",
+                "projectUrl": null,
+                "name": "databinding-runtime"
+            },
+            {
+                "group": "com.android.tools.lint",
+                "available": {
+                    "release": null,
+                    "milestone": "30.2.1",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "30.0.1",
+                "projectUrl": "http://tools.android.com/",
+                "name": "lint-gradle"
+            },
+            {
+                "group": "com.github.bumptech.glide",
+                "available": {
+                    "release": null,
+                    "milestone": "4.13.2",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "4.12.0",
+                "projectUrl": "https://github.com/bumptech/glide",
+                "name": "glide"
+            },
+            {
+                "group": "com.google.android.material",
+                "available": {
+                    "release": null,
+                    "milestone": "1.6.1",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "1.4.0",
+                "projectUrl": "https://github.com/material-components/material-components-android",
+                "name": "material"
+            },
+            {
+                "group": "org.jacoco",
+                "available": {
+                    "release": null,
+                    "milestone": "0.8.8",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "0.8.3",
+                "projectUrl": "http://jacoco.org",
+                "name": "org.jacoco.ant"
+            },
+            {
+                "group": "org.jetbrains.kotlin",
+                "available": {
+                    "release": null,
+                    "milestone": "1.7.0",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "1.5.30",
+                "projectUrl": "https://kotlinlang.org/",
+                "name": "kotlin-android-extensions"
+            },
+            {
+                "group": "org.jetbrains.kotlin",
+                "available": {
+                    "release": null,
+                    "milestone": "1.7.0",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "1.5.30",
+                "projectUrl": "https://kotlinlang.org/",
+                "name": "kotlin-android-extensions-runtime"
+            },
+            {
+                "group": "org.jetbrains.kotlin",
+                "available": {
+                    "release": null,
+                    "milestone": "1.7.0",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "1.5.30",
+                "projectUrl": "https://kotlinlang.org/",
+                "name": "kotlin-annotation-processing-gradle"
+            },
+            {
+                "group": "org.jetbrains.kotlin",
+                "available": {
+                    "release": null,
+                    "milestone": "1.7.0",
+                    "integration": null
+                },
+                "userReason": null,
+                "version": "1.5.30",
+                "projectUrl": "https://kotlinlang.org/",
+                "name": "kotlin-stdlib-jdk7"
+            }
+        ],
+        "count": 16
+    },
+    "unresolved": {
+        "dependencies": [
+            
+        ],
+        "count": 0
+    },
+    "undeclared": {
+        "dependencies": [
+            
+        ],
+        "count": 0
+    },
+    "count": 20
+}
